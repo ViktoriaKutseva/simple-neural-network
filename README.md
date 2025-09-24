@@ -1,0 +1,2 @@
+Simple Neural Network
+This project implements a simple neural network from scratch in Python. It is designed for educational purposes to demonstrate the basic concepts of neural networks, including forward propagation, backpropagation, and training on sample data.
